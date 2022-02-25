@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections on that part of a book called Amyntor, or, The defence of Milton's life, which relates to the writings of the primitive fathers and the canon of the New Testament in a letter to a friend.</title>
+            <author>Clarke, Samuel, 1675-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69765</idno>
+            <idno type="STC">Wing C4560A</idno>
+            <idno type="STC">ESTC R15286</idno>
+            <idno type="EEBO-CITATION">12950725</idno>
+            <idno type="OCLC">ocm 12950725</idno>
+            <idno type="VID">95890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 436:7, 733:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections on that part of a book called Amyntor, or, The defence of Milton's life, which relates to the writings of the primitive fathers and the canon of the New Testament in a letter to a friend.</title>
+                  <author>Clarke, Samuel, 1675-1729.</author>
+               </titleStmt>
+               <extent>47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Knapton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Samuel Clarke.  Cf. DNB, NUC pre-1956, BM.</note>
+                  <note>Accessing Early English books, 1641-1700, 1981, v. 2, gives title as: Reflections on that part of a book called Amyntor.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library and Cambridge University Library.</note>
+                  <note>Entries for C4498A and R703 cancelled in Wing (2nd ed.).</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Milton, John, 1608-1674.</term>
+               <term>Toland, John, 1670-1722. --  Amyntor.</term>
+               <term>Apocryphal books (New Testament)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95890:1"/>
+            <pb facs="tcp:95890:1" rendition="simple:additions"/>
+            <p>SOME REFLECTIONS On that part of a Book called AMYNTOR, OR THE <hi>Defence of</hi> Milton<hi>'s Life,</hi> Which relates to the WRITINGS of the Primitive Fathers And the CANON of the New Teſtament.</p>
+            <p>In a Letter to a Friend.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Knapton</hi> at the <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard. 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95890:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:95890:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Deſign which the Au<g ref="char:EOLhyphen"/>thor of the <hi>defence of Mil<g ref="char:EOLhyphen"/>ton's Life</hi> profeſſes that he had, in writing that part of his Book which relates to the Writings of the Primitive Fathers, and the Canon of the New Teſtament, was only to vindicate himſelf from the Charge of <hi>denying the Scripture and declaring his doubt that ſeveral pieces under the name of Chriſt and his Apoſtles, re<g ref="char:EOLhyphen"/>cieved now by the whole Chriſtian Church, are ſuppoſititious;</hi> by ſhew<g ref="char:EOLhyphen"/>ing that what he had ſaid in the Life of <hi>Milton,</hi> concerning the ſpuriouſ<g ref="char:EOLhyphen"/>neſs of <hi>ſeveral pieces under the name of Chriſt and his Apoſtles,</hi> was meant not of thoſe Writings which are <hi>now received by the whole Chriſtian Church,</hi> but of thoſe Apocryphal Pieces,
+<pb n="4" facs="tcp:95890:3"/>which were in many places received <hi>and approved in the Primitive Times.</hi> This is what the Author profeſſes to be the only deſign of this part of his Book: And though for his own ſake I cannot but heartily wiſh it were really no other; yet becauſe there are ſeveral Paſſages, wherein he either ſo expreſſes the very ſlight eſteem that he has for the Primitive Fathers, as ſeems to reflect upon our Religion it ſelf; or raiſes ſuch doubts about the authority of the Canon of the New Teſtament, as <hi>Hereticks</hi> (to uſe his own words) <hi>may draw miſ<g ref="char:EOLhyphen"/>chievous inferences</hi> from, and by which <hi>Scruples</hi> may be put into the minds of <hi>Sincere Chriſtians;</hi> I have therefore ſent you ſuch ſhort re<g ref="char:EOLhyphen"/>marks as upon reading the Book have occurred to me, and as I hope may be of ſome uſe to others on this Occaſion.</p>
+            <p>
+               <pb n="5" facs="tcp:95890:3"/>The Principal Propoſitions which our Author maintains, and which I thought moſt to deſerve conſideration, are theſe three.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">Pag. 38, 39.</note> That <hi>the Books aſcribed to the Diſciples and Companions of the Apoſtles, which are ſtill extant, and at this time thought genuine, and of great Authority; ſuch as the Epiſtle of</hi> Clemens <hi>to the</hi> Corin<g ref="char:EOLhyphen"/>thians, <hi>the Epiſtles of</hi> Ignatius, <hi>the Epiſtle of</hi> Polycarp <hi>to the</hi> Phi<g ref="char:EOLhyphen"/>lippians, <hi>the Paſtor of</hi> Hermas, <hi>and the Epiſtle of</hi> Barnabas; (for about the reſt which he menti<g ref="char:EOLhyphen"/>ons, there is no great Contro<g ref="char:EOLhyphen"/>verſie;) <hi>are all very eaſily proved to be ſpurious, and fraudulently im<g ref="char:EOLhyphen"/>poſed upon the credulous.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">pag. 38.</note> That <hi>'tis the eaſieſt task in the world, to ſhew the igno<g ref="char:EOLhyphen"/>rance and ſuperſtition of the Wri<g ref="char:EOLhyphen"/>ters of theſe Books:</hi>
+               <note place="margin">pag. 45.</note> That <hi>Barna<g ref="char:EOLhyphen"/>bas</hi> has <hi>many ridioulous paſſages;</hi>
+               <pb n="6" facs="tcp:95890:4"/>and by <hi>ſaying that the Apoſtles be<g ref="char:EOLhyphen"/>fore their Converſion were the greateſt ſinners in nature, robs us of an ar<g ref="char:EOLhyphen"/>gument we draw from their integri<g ref="char:EOLhyphen"/>ty and ſimplicity againſt Infidels:</hi> That <hi>the Paſtor of</hi> Hermas <hi>is the ſillieſt Book in the World:</hi> And that <hi>Ignatius</hi> ſays,
+<note place="margin">pag. 46.</note> 
+               <hi>the Virginity of</hi> Mary <hi>was a ſecret to the Devil;</hi> which, I ſuppoſe, he cites as a ridiculous ſaying.</p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>they who think</hi> theſe Books <hi>genuine,</hi> ought to <hi>re<g ref="char:EOLhyphen"/>ceive them into the Canon of Scrip<g ref="char:EOLhyphen"/>ture, ſince</hi> the reputed Authors of them <hi>were the Companions and fel<g ref="char:EOLhyphen"/>low-labourers of the Apoſtles, as well as St.</hi> Mark, <hi>or St.</hi> Luke, which is the <hi>only reaſon</hi> he <hi>ever heard of,</hi> why <hi>theſe two</hi> Evangeliſts are thought <hi>Inſpired.</hi>
+               <note place="margin">pag. 48.</note> For <hi>to ſay that theſe Books ought not to be received now into the Canon, becauſe the Ancients did not think fit to approve
+<pb n="7" facs="tcp:95890:4"/>them, is but a mere evaſion;</hi> ſince <hi>many Books now received as Cano<g ref="char:EOLhyphen"/>nical, were not approved by the An<g ref="char:EOLhyphen"/>cients;
+<note place="margin">pag. 57.</note> and ſome received by the Ancients,</hi> are now <hi>rejected b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Moderns;</hi> and <hi>Mr. Dodael</hi> owns,
+<note place="margin">pag. 73.</note> that anciently <hi>no difference was put by the Church between the Apocry<g ref="char:EOLhyphen"/>phal and Canonical Books of the New Teſtament:</hi> and beſides, <hi>no ſtreſs can be laid on the Teſtimony of the Fathers;</hi>
+               <note place="margin">pag. 80.</note> ſince they <hi>not only contradict one another, but are often inconſiſtent with themſelves in their relations of the very ſame facts;</hi> were divided into <hi>various Sects,</hi>
+               <note place="margin">pag. 56.</note> who <hi>in thoſe early days did, like us, condemn one another for damnable Hereticks;</hi> uſed to <hi>reaſon precari<g ref="char:EOLhyphen"/>ouſly,</hi>
+               <note place="margin">p. 50, 51.</note> (<hi>as</hi> Irenaeus <hi>the famous Suc<g ref="char:EOLunhyphen"/>ceſſor of the Apoſtles,</hi> argues from the <hi>four Regions of the World, and the four Winds, that there cannot be more nor fewer than four Goſpels</hi>)
+<pb n="8" facs="tcp:95890:5"/>
+               <hi>and give hard names to thoſe who contemn</hi> ſuch <hi>precarious reaſon<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>Theſe are the principal Aſſerti<g ref="char:EOLhyphen"/>ons of our Author, which be<g ref="char:EOLhyphen"/>cauſe they ſeem to me not only to be ſalſe, but alſo to be propo<g ref="char:EOLhyphen"/>ſed with too bold a liberty of paſſing cenſures upon the judg<g ref="char:EOLhyphen"/>ment both of the ancient and modern Church; I ſhall there<g ref="char:EOLhyphen"/>fore in anſwer to them, and for a Vindication of the Primitive Fa<g ref="char:EOLhyphen"/>thers and Modern Doctors of the Chriſtian Church, with ſubmiſſi<g ref="char:EOLhyphen"/>on advance theſe three Propo<g ref="char:EOLhyphen"/>ſitions.</p>
+            <p>
+               <hi>Firſt,</hi> that though we are not infallibly certain, that the Epi<g ref="char:EOLhyphen"/>ſtles of <hi>Clemens, Ignatius, Polyearp</hi> and <hi>Barnabas,</hi> with the Paſtor of <hi>Hermas,</hi> are Genuine; yet that they are generally believed to be ſo, upon very <hi>great Authority,</hi>
+               <pb n="9" facs="tcp:95890:5"/>and with very <hi>good Reaſon.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That therefore, though they are not received as of the ſame Anthority with the Canoni<g ref="char:EOLhyphen"/>cal Books of the New Teſtament, yet they ought to have a <hi>propor<g ref="char:EOLhyphen"/>tionable Veneration</hi> paid to them, both with reſpect to the <hi>Authors</hi> and to the <hi>Writings</hi> themſelves.</p>
+            <p>
+               <hi>Thirdly,</hi> That neither the Belief of the Genuineſs of theſe Books, nor the Reſpect paid to them as ſuch, does in the leaſt <hi>diminiſh from the Authority of the New Teſta<g ref="char:EOLhyphen"/>ment,</hi> or tend to <hi>make the number of the Canonical Books <g ref="char:V">Ʋ</g>ncertain or Precarious.</hi>
+            </p>
+            <p n="1">I. <hi>Firſt,</hi> That though we are not infallibly certain that the E<g ref="char:EOLhyphen"/>piſtles of <hi>Clemens, Ignatius, Polycarp</hi> and <hi>Barnabas,</hi> with the Paſtor of <hi>Hermas,</hi> are Genuine; yet that they are generally believed to be ſo, upon very <hi>great Authority,</hi>
+               <pb n="10" facs="tcp:95890:6"/>and with very <hi>good Reaſon.</hi>
+            </p>
+            <p n="1">1. The Epiſtle of <hi>Clemens</hi> to the <hi>Corinthians,</hi> a
+<note n="*" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Euſeb. Hiſt. l.</hi> 3. <hi>c.</hi> 16.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Id. l.</hi> 3. <hi>c.</hi> 38.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Id. l.</hi> 5. <hi>c.</hi> 6. <hi>ex Irenaeo, l.</hi> 3.3. <hi>c.</hi> 3.</p>
+               </note> 
+               <hi>great and wonderful Epiſtle,</hi> ſaith <hi>Euſebius,</hi> was <hi>una<g ref="char:EOLhyphen"/>nimouſly and without any controverſie received</hi> by the antient Church; and
+<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Id. l.</hi> 3. <hi>l.</hi> 16.</note> 
+               <hi>read publickly in moſt Churches, both an<g ref="char:EOLhyphen"/>tiently, and in his time.</hi> And that the Epiſtle now extant is the ſame with that which was ſo commended by the Antients, has not been queſtioned by any Learned Man theſe many years, and has been lately proved at large by the Learned <hi>Doctor Wake</hi> in his <hi>Ge<g ref="char:EOLhyphen"/>nuine Epiſtles of the Apoſtolical Fathers</hi> and by <hi>Grabius</hi> in his <hi>Spicilegium,</hi> p. 261. whom I ſhall not now tranſcribe.</p>
+            <p n="2">2. That <hi>Ignatius</hi> wrote ſeveral
+<pb n="11" facs="tcp:95890:6"/>Epiſtles
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Euſeb. Hiſt. l.</hi> 3. <hi>c.</hi> 36.</note>, one to the <hi>Epheſians,</hi> one to the <hi>Magneſians,</hi> one to the <hi>Trallians,</hi> one to the <hi>Romans,</hi> one to the <hi>Philadelphians,</hi> one to the <hi>Smyrnaeans,</hi> and one to <hi>Polycarp; Euſebius</hi> expreſly teſtifies; quoting a large paſſage out of his Epiſtle to the <hi>Romans,</hi> which paſſage is now extant word for word in that Epiſtle, being publiſhed with the reſt above-mentioned. And that all the Epiſtles now extant under theſe Titles, are the ſame with thoſe mentioned by the Antients; is ſufficiently proved by the very Learned Biſhop <hi>Pierſon</hi> in his <hi>Vin<g ref="char:EOLhyphen"/>diciae, Cotelerius,</hi> and others.</p>
+            <p n="3">3. The Epiſtle of <hi>Polycarp</hi> to to the <hi>Philippians,</hi> is mentioned by
+<note n="†" place="margin">
+                  <hi>Lib.</hi> 3. <hi>c.</hi> 3.</note> 
+               <hi>Irenaeus</hi> that knew him living, and by
+<pb n="12" facs="tcp:95890:7"/>
+               <note n="*" place="margin">
+                  <hi>Hiſt. l.</hi> 3. <hi>c.</hi> 36.</note> 
+               <hi>Euſebius,
+<note n="†" place="margin">
+                     <hi>In Catalogo,</hi> &amp;c.</note> Hierom</hi> and others, whoſe Te<g ref="char:EOLhyphen"/>ſtimonies ſet down at large by <hi>Cotelerius</hi> I need not tranſcribe: And that the <hi>Epiſtle</hi> now extant under his Name, at leaſt the greateſt part of it, is the Genuine one, is acknowledged by
+<note n="*" place="margin">See Dr. <hi>Wakes</hi> Genuine Epiſtles, and <hi>Coteler.</hi> not. 1. in Epiſtolas Ignatii.</note> all Writers eminent for Judgment and Learning.</p>
+            <p n="4">4. The Paſtor of <hi>Hermas</hi> is in<g ref="char:EOLhyphen"/>conteſtably a moſt antient work, being cited by almoſt all the Pri<g ref="char:EOLhyphen"/>mitive Fathers extant, that lived in or near the ſecond Century; <hi>viz.</hi> by
+<note n="†" place="margin">
+                  <hi>L.</hi> 2. <hi>&amp;</hi> 4. <hi>&amp;</hi> 6.</note> 
+               <hi>Irenaeus,</hi> by
+<note n="*" place="margin">
+                  <hi>De Orat. c.</hi> 12. <hi>&amp; de Pudic.</hi>
+               </note> 
+               <hi>Tertullian,</hi> by
+<note n="†" place="margin">
+                  <hi>Hom.</hi> 8. num. <hi>lib.</hi> 1, 2. <hi>&amp;</hi> 3. de Princip. <hi>Comment. in</hi> Mat. <hi>Hom.</hi> 37. <hi>in</hi> Luc. <hi>mul<g ref="char:EOLhyphen"/>tiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aliis in locis.</hi>
+               </note> 
+               <hi>Ori<g ref="char:EOLhyphen"/>gen,</hi> by <hi>Clem. Alexand.</hi> &amp;c. whoſe Teſtimo<g ref="char:EOLhyphen"/>nies are ſet down at large by <hi>Nicol. de Nourry</hi> at the end of his <hi>Apparatus ad Bibliothe<g ref="char:EOLhyphen"/>cam maximam veterum Patrum,</hi> and
+<pb n="13" facs="tcp:95890:7"/>praefixed to the <hi>Oxford</hi> Edition of <hi>Hermas,</hi> and to that of <hi>Cotelerius.</hi> Whether the Author of this book be the ſame <hi>Hermas</hi> that is mentio<g ref="char:EOLhyphen"/>ned by <hi>St. Paul,</hi> though it is affir<g ref="char:EOLhyphen"/>med by many of the beſt and moſt judicious writers, yet is it not ſo certain, nor of ſuch conſequence, that we ſhould be obliged to de<g ref="char:EOLhyphen"/>fend it.</p>
+            <p n="5">5. The Epiſtle of <hi>Barnabas</hi> is alſo without controverſie antient, a work of the Apoſtolick Age, be<g ref="char:EOLhyphen"/>ing quoted by almoſt all the
+<note n="*" place="margin">
+                  <hi>Clem. Alex. Strom.</hi> 2. <hi>&amp; Strom.</hi> 5. <hi>Origen. contra Celſ. lib.</hi> 6, <hi>&amp;c.</hi>
+               </note> Primitive Fa<g ref="char:EOLhyphen"/>thers; as you may ſee by the Teſtimonies ſet down at large, in all the ſame Authors with the Teſtimonies concerning <hi>Hermas.</hi>
+            </p>
+            <p>Upon theſe <hi>great Authorities</hi> then, though we cannot be abſo<g ref="char:EOLhyphen"/>lutely ſure that theſe Writings are Genuine, yet we may well con<g ref="char:EOLhyphen"/>clude
+<pb n="14" facs="tcp:95890:8"/>and believe them to be ſo, notwithſtanding the ſuſpitions which ſome have raiſed to the contrary. There are alſo ſundry other Arguments, which may be drawn from the ſimplicity of the ſtile and way of arguing uſed in theſe Writings, agreeable to the cuſtom of the Age in which they are ſuppoſed to be written; from the conformity of the matters con<g ref="char:EOLhyphen"/>tained in them, to the Doctrine and Diſcipline of thoſe times; and from the exact Agreement of all the Quotations of the moſt an<g ref="char:EOLhyphen"/>tient Authors, to the Copies extant at this day: All which taken toge<g ref="char:EOLhyphen"/>ther, afford ſo <hi>good Reaſon</hi> to be<g ref="char:EOLhyphen"/>lieve theſe Books to be genuine, that whoſoever conſiders them, may very well wonder at the con<g ref="char:EOLhyphen"/>fidence of Mr. <hi>T.</hi> who is pleaſed to affirm that <hi>'tis the eaſieſt Task in the World to prove all theſe Wri<g ref="char:EOLhyphen"/>tings
+<pb n="15" facs="tcp:95890:8"/>ſpurious, and fraudulently im<g ref="char:EOLhyphen"/>poſed upon the credulous.</hi>
+            </p>
+            <p n="2">II. <hi>Secondly,</hi> Though theſe Writings are not received as of the ſame Authority with the Ca<g ref="char:EOLhyphen"/>nonical Books of the New Teſta<g ref="char:EOLhyphen"/>ment, yet ought they to have a <hi>proportionable Veneration</hi> paid to them, both with reſpect to the <hi>Authors</hi> and to the <hi>Writings</hi> them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <hi>Clemens</hi> was a Companion of the Apoſtles, and <hi>Ignatius</hi> and <hi>Po<g ref="char:EOLhyphen"/>lycarp</hi> their immediate Succeſſors; and if the Authors of the Epiſtle of <hi>Barnabas</hi> and of the Paſtor of <hi>Hermas</hi> were not the ſame with the Fellow-Labourers and Con<g ref="char:EOLhyphen"/>temporaries of the Apoſtles, known by thoſe Names, yet are they ſo undeniably antient, (being certain<g ref="char:EOLhyphen"/>ly of the firſt Age,) as to challenge all the reſpect that can poſsibly be due to any Writers upon the
+<pb n="16" facs="tcp:95890:9"/>account of Antiquity. And as to the Writings themſelves, though <hi>Mr. T.</hi> will not be perſuaded to grant with the Learn<g ref="char:EOLhyphen"/>ed <hi>Dr.
+<note n="†" place="margin">In his Diſcourſe of the Authority of the genuine Epiſtles, <hi>p.</hi> 175.</note> Wake,</hi> that <hi>they contain the true and pure Faith of Chriſt, without the leaſt Errour intermixt with it;</hi> yet this we may be bold to affirm, that in general they are ſo far from be<g ref="char:EOLhyphen"/>traying either the <hi>Ignorance</hi> or <hi>Su<g ref="char:EOLhyphen"/>perſtition</hi> of their Authors, which <hi>Mr. T:</hi> ſo confidently charges them with, that they contain a ve<g ref="char:EOLhyphen"/>ry good account of <hi>that Doctrine and Dicipline</hi> of the pureſt ages of the Church, <hi>which</hi> all learned and good Chriſtians heartily wiſh could be reſtored at this day.</p>
+            <p n="1">1. The Epiſtle of <hi>Clemens</hi> is ſtiled by <hi>Euſebius,</hi> (as I have al<g ref="char:EOLhyphen"/>ready obſerved) <hi>a great and ad<g ref="char:EOLhyphen"/>mirable Epiſtle;</hi> and was publick<g ref="char:EOLhyphen"/>ly read in the Chriſtian Churches
+<pb n="17" facs="tcp:95890:9"/>both before and in his time: <q>And indeed it does not at all come ſhort of the higheſt Praiſes which the Ancients have given to it; being a Piece compoſed with ſuch an admirable ſpirit of Love and Charity; of Zeal towards God, and of concern for the Church; of the moſt excellent exhortations delivered with the greateſt plainneſs and ſimplicity of ſpeech, and yet preſſed many times with ſuch moving elo<g ref="char:EOLhyphen"/>quence too; that I cannot ima<g ref="char:EOLhyphen"/>gin what could have been de<g ref="char:EOLhyphen"/>ſired in ſuch an ſpiſtle, more proper for the end for which it was compoſed; what could have been written more becoming an Apoſtolical age, and the Pen of one of the moſt eminent Biſhops of it.</q> Thus the Learned Dr. <hi>Wake.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:95890:10"/>His making the <hi>Scarlet thread</hi> hung out by <hi>Rahab</hi> to the Spies, a Type of the <hi>Blood</hi> of <hi>Chriſt;</hi> how<g ref="char:EOLhyphen"/>ever it may poſſibly ſeem ſtrange to ſuch as Mr. <hi>T.</hi> was yet in the Opinion of the Ancients very a<g ref="char:EOLhyphen"/>greeable to the Tenour of the Scripture, and particularly to that Type of the <hi>Scarlet Wool,</hi> where<g ref="char:EOLhyphen"/>with the Blood of the Sacrifice was ſprinkled on the People under the Law, <hi>Heb.</hi> 9.19.</p>
+            <p>The Hiſtory of the <hi>Phaenix,</hi> mentioned in this Epiſtle, is con<g ref="char:EOLhyphen"/>feſſedly a Fable. But he that con<g ref="char:EOLhyphen"/>ſiders that it was a Story at that time generally told and believed, as <hi>Tacitus</hi> largely relates; and that the beſt of Men never had any aſſurance of being preſerved from vulgar and innocent Errors; will not be haſty in cenſuring an ex<g ref="char:EOLhyphen"/>cellent Man, and an excellent Book, for making ſuch a vulgar
+<pb n="19" facs="tcp:95890:10"/>error the Topick of a Popular Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p n="2">2. The Epiſtles of <hi>Ignatius</hi> are written indeed in a plain, ſimple, and unaffected ſtile; as are moſt of the Books of the Holy Scrip<g ref="char:EOLhyphen"/>ture it ſelf: but, whatever Mr. <hi>T.</hi> ſays, there is nothing in them ei<g ref="char:EOLhyphen"/>ther of <hi>ignorance</hi> or <hi>Superſtition;</hi> unleſs a <hi>Firm belief of Divine Re<g ref="char:EOLhyphen"/>velation</hi> muſt be eſteemed <hi>Igno<g ref="char:EOLhyphen"/>rance,</hi> and a <hi>ſtrict Obſervance of the Laws of Chriſt</hi> is to be called <hi>Su<g ref="char:EOLhyphen"/>perſtition.</hi>
+            </p>
+            <p>One Paſſage indeed there is in his Epiſtle to the <hi>Epheſians,</hi> which Mr. <hi>T.</hi> cannot but ſmile at: <hi>viz.</hi> that <hi>the Virginity of</hi> Mary <hi>and her delivery, was kept in ſecret from the Prince of this World.</hi> But he that conſiders the manner of our Savi<g ref="char:EOLhyphen"/>our's temptation, and how the Ancients conſtantly, and (in the
+<pb n="20" facs="tcp:95890:11"/>judgment of the very Learned
+<note n="*" place="margin">Sanè Diabolum majus aliquid homine in C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſto agnoviſſe hoc quidem tem<g ref="char:EOLhyphen"/>pore, conſtanter, <hi>nec ſine magnis argumentis,</hi> negant Scriptores antiqui. <hi>Grot.</hi> in Mat. 4.3.</note> 
+               <hi>Grotius</hi>) not without good Grounds, denied the Devil to have known any thing at firſt of the great My<g ref="char:EOLhyphen"/>ſtery of the Incarnation, will not for this paſſage condemn <hi>Ignati us</hi> of <hi>Ignorance.</hi>
+            </p>
+            <p n="3">3. The Epiſtle of <hi>Polycarp</hi> to the <hi>Philippiaus</hi> is a very valuable Monument of Antiquity, con<g ref="char:EOLhyphen"/>taining nothing in it unworthy the Character of ſo great a Father.
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Eu<g ref="char:EOLhyphen"/>ſeb. Hiſt. l, 4. c. 14. ex Ire<g ref="char:EOLhyphen"/>naeo.</note> 
+               <hi>Ire<g ref="char:EOLhyphen"/>naeus</hi> calls it <hi>a moſt com<g ref="char:EOLhyphen"/>pleat Epiſtle; out of which they that are care<g ref="char:EOLhyphen"/>ful of their own Salvati<g ref="char:EOLhyphen"/>on, may learn what was the Belief of</hi> that Apoſtolical Man, <hi>and what the form of ſound Doctrine which he delivered in his Preach<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p n="4">
+               <pb n="21" facs="tcp:95890:11"/>4. The Paſtor of <hi>Hermas</hi> is a Book full of very excellent Moral Inſtructions, delivered for the the moſt part in eaſie and natural Similitudes, and theſe alſo ex<g ref="char:EOLhyphen"/>plained at large to the apprehen<g ref="char:EOLhyphen"/>ſion of the meaneſt capacities: For which reaſon, though it was not received into the Canon of Scrip<g ref="char:EOLhyphen"/>ture, yet (as <hi>Euſebius</hi> teſtifies) it
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Hiſt. l. 4. c. 3.</note> 
+               <hi>was judged by the Ancients a moſt neceſſary Book, eſpecially for thoſe who were to be inſtructed in the firſt Principles of Religion; and was therefore accordingly read in Churches:</hi> And <hi>Origen</hi> (who was far from being an <hi>ignorant</hi> Man) judges it to be a
+<note n="*" place="margin">In <hi>Rom.</hi> 16, 14.</note> 
+               <hi>moſt uſeful Book.</hi> But Mr. <hi>T.</hi> ſaith it is <hi>the ſillieſt Book in the World.</hi> Why he ſhould think ſo, I cannot apprehend, un<g ref="char:EOLhyphen"/>leſs it be becauſe there are here
+<pb n="22" facs="tcp:95890:12"/>and there ſome few odd Paſſages ſcattered in it, very different from our modern way of Writing, which perhaps he can ſingle out and expoſe; And ſo there is hard<g ref="char:EOLhyphen"/>ly any Book extant in the World, which a witty Man may not turn into ridicule.</p>
+            <p>All the Objections which I think have been hitherto made to this Book, are theſe: That
+<note n="*" place="margin">Libri <hi>fabuloſi</hi> ſunt, in quibus contra Apoſtolicum conſenſum adſtruitur <hi>Libe<g ref="char:EOLhyphen"/>rum Arbitrium, una Paeniten<g ref="char:EOLhyphen"/>tia, Solitudo Monaſtica,</hi> &amp;, quod memoratu dignum, purgatorium ab anu quâdam in viſione tertiâ proſertui. <hi>Scultetus de Script. Apoch.</hi>
+               </note> 
+               <hi>it contains fabu<g ref="char:EOLhyphen"/>lous Viſions:</hi> That <hi>it makes too much for Free<g ref="char:EOLhyphen"/>will:</hi> That <hi>it aſſigns to every Man two Angels: That it favours the</hi> No<g ref="char:EOLhyphen"/>vations <hi>in allowing but one Repen<g ref="char:EOLhyphen"/>tance:</hi> That <hi>it favours Monkiſh Solitude:</hi> and, that <hi>it ſpeaks of Pur<g ref="char:EOLhyphen"/>gatory.</hi> The three firſt of theſe Ob<g ref="char:EOLhyphen"/>jections we ſhall conſider imme<g ref="char:EOLhyphen"/>diately; But the three latter are ſo <hi>directly falſe,</hi> that one would
+<pb n="23" facs="tcp:95890:12"/>wonder how prejudice could poſ<g ref="char:EOLhyphen"/>ſibly be ſo ſtrong as to make Men ſee in any Author thoſe things, of which there is not the <hi>leaſt ſyllable or hint</hi> in the whole Book.</p>
+            <p>That the <hi>Viſions</hi> contained in it are <hi>fabulous,</hi> we ought not to ſay, unleſs we be ſure, either that God never afforded any Viſions to the firſt Chriſtians; or that theſe Vi<g ref="char:EOLhyphen"/>ſions have ſome particular Circum<g ref="char:EOLhyphen"/>ſtances, which prove that they could not come from God. But if it were ſo, yet taking that which is uſed in this Book to be no other than a Parabolical way of Wri<g ref="char:EOLhyphen"/>ting, wherein the Church is intro<g ref="char:EOLhyphen"/>duced as repreſenting its own Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline to a Perſon in a Viſion, it ought not to be ſtiled fabulous, any more than
+<note n="*" place="margin">Parable of the Pilgrim. of the Prodigal, <hi>&amp;c.</hi>
+               </note> other Books of that kind which are written in our Age.</p>
+            <p>
+               <pb n="24" facs="tcp:95890:13"/>That maintaining the <hi>freedom</hi> of Mans <hi>Will,</hi> in the ſenſe that <hi>Her<g ref="char:EOLhyphen"/>mas</hi> aſſerts it, is a good Objection againſt a Book, I ſuppoſe neither Mr. <hi>T.</hi> nor any Man elſe, at this time of day, will contend.</p>
+            <p>That <hi>Hermas</hi> aſſigns <hi>to every particular Man two Angels,</hi> if the Titles of the Chapters were of any Authority, could not indeed be queſtioned. But in the Book it ſelf there is no ſuch thing <hi>expreſly</hi> affirmed: All that the Author there ſays, is only in general, That
+<note n="*" place="margin">Duo ſunt nuntii cum homine; unus aequitatis, &amp; unus iniquitatis. <hi>Man<g ref="char:EOLhyphen"/>dat.</hi> 6.</note> 
+               <hi>there are two Angels with Man; one of Righteouſ<g ref="char:EOLhyphen"/>neſs, the other of Iniquity;</hi> and that <hi>when good thoughts ariſe in a Mans heart, then the Angel of Righteouſ<g ref="char:EOLhyphen"/>neſs</hi> (that is, ſome good ſpirit) <hi>is with him; and when evil thoughts ariſe in his heart, then the Angel of Iniquity,</hi> (that is, ſome evil ſpirit)
+<pb n="25" facs="tcp:95890:13"/>
+               <hi>tempts him:</hi> Which perhaps is no more, than what all Chriſtians believe. So that <hi>Cotel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rius</hi> in his Notes upon the place, might have ſpared the pains of proving other Fathers to have been of the ſame opinion with <hi>Hermas,</hi> till he had ſhown that theſe words do <hi>neceſ<g ref="char:EOLhyphen"/>ſarily</hi> ſignifie that <hi>Hermas</hi> himſelf was of that Opinion.</p>
+            <p>That <hi>Hermas</hi> by allowing <hi>but One Repentance</hi> for great and ſcan<g ref="char:EOLhyphen"/>dalous Crimes, favours the <hi>Nova<g ref="char:EOLhyphen"/>tians,</hi> whoſe Hereſie conſiſted in allowing <hi>no</hi> other <hi>Repentance at all,</hi> than that of <hi>Baptiſm,</hi> is ſo far from being true, that he in expreſs words oppoſes his <hi>One Repentance</hi> to <hi>Baptiſm,</hi> and ſays more for the validity and efficacy of that after-Repentance for Crimes commit<g ref="char:EOLhyphen"/>ted by Baptized Chriſtians, in this one little Book, than perhaps is to be found in all the other Wrirers
+<pb n="26" facs="tcp:95890:14"/>of the three firſt Centuries put to<g ref="char:EOLhyphen"/>gether; inſomuch that <hi>Tertullian,</hi> after he turned <hi>Montaniſt,</hi> and had embraced the Opinion of the <hi>No<g ref="char:EOLhyphen"/>vatians,</hi>
+               <note n="*" place="margin">Cederem tibi, ſi ſcrip<g ref="char:EOLhyphen"/>tvra Paſtoris, quae ſola mae<g ref="char:EOLhyphen"/>chos amat, non ab omni concilio Eccleſiarum inter Apocrypha &amp; falſa judica<g ref="char:EOLhyphen"/>retur, adultera &amp; ipſa, &amp; inde patrona ſociorum. <hi>De Pudicitia.</hi>
+               </note> exclaims with all imaginable bitter<g ref="char:EOLhyphen"/>neſs againſt this Book for that very reaſon, becauſe it was more fa<g ref="char:EOLhyphen"/>vourable than any o<g ref="char:EOLhyphen"/>ther Book then extant, in allow<g ref="char:EOLhyphen"/>ing Repentance to Adulterers after Baptiſm, which the <hi>Novatians</hi> denied.</p>
+            <p>That this Book favours <hi>Monkiſh Solitude,</hi> is alſo ſo far from be<g ref="char:EOLhyphen"/>ing true, that on the contrary it even expreſly allows
+<note n="†" place="margin">
+                  <hi>Mandat.</hi> 4.</note> 
+               <hi>Second Mar<g ref="char:EOLhyphen"/>riages,</hi> which was more than moſt Writers of that Age were willing to do.</p>
+            <p>Laſtly, So far is this Writer from eſtabliſhing the Doctrine of <hi>Purgatory,</hi> that there is not <hi>one
+<pb n="27" facs="tcp:95890:14"/>ſyllable</hi> about it in the whole Book: All the places where he ſpeaks of Mens undertaking ma<g ref="char:EOLhyphen"/>ny hardſhips, and ſo <hi>purging</hi> them<g ref="char:EOLhyphen"/>ſelves from their ſins, being as plainly meant of the Penances to be gone through, according to the then eſtabliſhed Diſcipline of the Church, as 'tis poſſible for any thing to be expreſſed by words.</p>
+            <p n="5">5. The Epiſtle of <hi>Barnabas</hi> was very much eſteemed among the Antients: And though it muſt indeed be confeſſed, that it contains ſome very ſtrange and allegorical Interpretations of Scrigture; yet he that conſiders how much that manner of In<g ref="char:EOLhyphen"/>terpretation was antiently in uſe among the Jews in their Tar<g ref="char:EOLhyphen"/>gums, and how many important truths were that way conveyed, ſo that the Apoſtles themſelves
+<pb n="28" facs="tcp:95890:15"/>in their arguing with the Jews did often make uſe of it, as we ſee in their uncontroverted Wri<g ref="char:EOLhyphen"/>tings; I ſay whoſoever conſiders theſe things, will rather chuſe modeſtly to ſuſpend his Judg<g ref="char:EOLhyphen"/>ment, than raſhly to upbraid this Author with the Terms of fooliſh and <hi>ridiculous.</hi>
+            </p>
+            <p>And as to his ſaying that <hi>the Apoſtles before their Converſion were the greateſt ſinners in nature;</hi> this does not at all <hi>rob us of the Ar<g ref="char:EOLhyphen"/>gument we uſe to draw from their Integrity and Simplicity againſt In<g ref="char:EOLhyphen"/>fidels.</hi> For ſuppoſing them to have been never ſo wicked, were they the leſs <hi>Simple and Illiterate</hi> for that? Or is their Wickedneſs before their Converſion any way inconſiſtent with their Integrity after it? But beſides, theſe Words might be ſpoken with relation to ſuch ſins, as though very great
+<pb n="29" facs="tcp:95890:15"/>in themſelves, yet ſincere and well-meaning Men might be guilty of in their Ignorance; as St. <hi>Paul</hi> ſays of himſelf, that before his Converſion he was the <hi>chief of ſinners,</hi> in reſpect of his blaſphem<g ref="char:EOLhyphen"/>ing Chriſt and perſecuting Chriſti<g ref="char:EOLhyphen"/>ans even to Death, for Chriſt's ſake.</p>
+            <p>In ſhort, though it muſt after all be confeſt, that the Authors of theſe Writings uſed a plain, po<g ref="char:EOLhyphen"/>pular and unpolite Stile; that they were guilty of ſome Miſtakes, in things wherein the whole world at that time erred with them; (for which Mr. <hi>T.</hi> is pleaſed to ſtile them <hi>Ignorant;</hi>) and that they de<g ref="char:EOLhyphen"/>livered divers things, which tho' very agreeable to the ſtrictneſs of their Diſcipline in the Primitive Church, yet the preſent times will not ſo well bear; (for which Mr. <hi>T.</hi> calls them <hi>Superſtitious;</hi>) Tho' I ſay, all this muſt be granted;
+<pb n="30" facs="tcp:95890:16"/>yet ſince in general the Matter of theſe Writings is ſuch, that not only the Ancients thought fit to cite them in their Books and read them in their Churches, but alſo the Learnedſt and moſt Judicious Criticks of our own times, as well Laicks as thoſe of the Clergy, have received them as genuine, and re<g ref="char:EOLhyphen"/>commended them as <hi>containing the true and pure Faith of Chriſt;</hi> I cannot but think that the very great ſcorn and contempt, where<g ref="char:EOLhyphen"/>with Mr. <hi>T.</hi> hath thought fit to treat them, is a very bold aſſum<g ref="char:EOLhyphen"/>ing to himſelf, and undervaluing the Judgment of the greateſt Men both of the Ancient and Mo<g ref="char:EOLhyphen"/>dern Church, and conſequently a Reflection upon our Religion its ſelf; and that after all, we have very <hi>good Reaſon,</hi> as well as very <hi>great Authority,</hi> though not to receive theſe Writings as of
+<pb n="31" facs="tcp:95890:16"/>the ſame Authority with the Ca<g ref="char:EOLhyphen"/>nonical Books of the New Teſta<g ref="char:EOLhyphen"/>ment, yet to pay them a <hi>proportio<g ref="char:EOLhyphen"/>nable Veneration,</hi> both with reſpect to the <hi>Authors</hi> and to the <hi>Writings</hi> themſelves.</p>
+            <p n="3">III. <hi>Thirdly,</hi> Neither the Be<g ref="char:EOLhyphen"/>lief of the Genuineneſs of theſe Writings, nor the reſpect paid to them as ſuch, does in the leaſt diminiſh from the Authority of the New Teſtament, or tend to make the number of the Canoni<g ref="char:EOLhyphen"/>cal Books uneertain or precari<g ref="char:EOLhyphen"/>ous.</p>
+            <p>This is the difficulty, on which Mr. <hi>T.</hi> ſeems particularly to inſiſt, as if it were impoſſible for thoſe who believe the Genuineneſs of theſe Writings to give any tolera<g ref="char:EOLhyphen"/>ble reaſon why they do not ad<g ref="char:EOLhyphen"/>mit them into the Canon of the New Teſtament, as well as ſeve<g ref="char:EOLhyphen"/>ral
+<pb n="32" facs="tcp:95890:17"/>others, which are now receiv'd: And therefore I ſhall indeavour to be ſomewhat more exact and par<g ref="char:EOLhyphen"/>ticular in giving an Anſwer to it.</p>
+            <p n="1">1. Firſt then, tho' we have great Reaſon to believe theſe Books to be Genuine, yet have we not the ſame <hi>certainty</hi> of it, as we have of the Genuineneſs of the Books re<g ref="char:EOLhyphen"/>ceiv'd into the Canon of the N. Te<g ref="char:EOLhyphen"/>ſtament. The Books of the <hi>New Te<g ref="char:EOLhyphen"/>ſtament,</hi> as it might be proved of every one of them particularly, were received at their firſt coming forth as being written by Divine Inſpiration, and were quoted as ſuch by <hi>Irenaeus</hi> and others of the Ancienteſt Fathers: And though upon occaſion of ſome Diſputes that aroſe afterwards among Chri<g ref="char:EOLhyphen"/>ſtians, the Authority of ſome few of thoſe Books came to be called in Queſtion; (not to ſpeak at
+<pb n="33" facs="tcp:95890:17"/>preſent of thoſe Hereticks, the <hi>Ce<g ref="char:EOLhyphen"/>rinthians, Marcionites, Manichees,</hi> and others, who rejected whatſo<g ref="char:EOLhyphen"/>ever made againſt their abſurd Opinions;) yet thoſe few Queſti<g ref="char:EOLhyphen"/>oned Books were ſo far from be<g ref="char:EOLhyphen"/>ing (as Mr. <hi>T.</hi> ſalſely aſſerts) <hi>reje<g ref="char:EOLhyphen"/>cted a long time by all Chriſtians al<g ref="char:EOLhyphen"/>moſt with univerſal conſent,</hi> that even thoſe Books were not only kept entire from the beginning, but (as <hi>Euſebius</hi> expreſly teſti<g ref="char:EOLunhyphen"/>fies) were
+<note n="*" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. —<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Hiſt. <hi>l.</hi> 3. <hi>c.</hi> 25.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>lib.</hi> 3. <hi>c.</hi> 3.</p>
+               </note> owned by <hi>moſt</hi> Doctors of the Church, and were all along read together with the other Scrip<g ref="char:EOLhyphen"/>tures; and at laſt, up<g ref="char:EOLhyphen"/>on the full and exact examination of all Circumſtances, the matter being put out of Queſtion, they were unanimouſly received, as well by thoſe Churches where they were doubted before, as by
+<pb n="34" facs="tcp:95890:18"/>all other Chriſtian Churches, into the Canon of Scripture; and ſo have been continued ever ſince by univerſal conſent, and by the un<g ref="char:EOLhyphen"/>interrupted Succeſſion of Chriſti<g ref="char:EOLhyphen"/>ans in all Ages. Whereas of thoſe Writings which we are now ſpea<g ref="char:EOLhyphen"/>king of, that which is the leaſt controverted, <hi>viz.</hi> the Epiſtle of <hi>Clemens,</hi> was for many Ages thought to be utterly loſt: and though upon its appearing again, the beſt Criticks in the World thought they had <hi>good reaſon</hi> to pronounce it <hi>Genuine;</hi> yet they could not be ſo ſure that it was free from corruption and interpo<g ref="char:EOLhyphen"/>lation, as we are of thoſe Writings which were never loſt. And now this Argument is of peculiar force againſt Mr. <hi>T.</hi> For if he thinks, as he ſays, that he can with all the eaſe in the World prove theſe Writings ſpurious; (which not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="35" facs="tcp:95890:18"/>his vain boaſt, he will never be able to perform;) he may at leaſt allow thoſe, who do not doubt but they are Genu<g ref="char:EOLhyphen"/>ine, yet not to advance them a<g ref="char:EOLhyphen"/>bove their own rank, and place them among thoſe which by the Univerſal Church have been re<g ref="char:EOLhyphen"/>ceived into the Canon of the New Teſtament.</p>
+            <p n="2">2. <hi>Secondly,</hi> Though the mat<g ref="char:EOLhyphen"/>ter of theſe Writings be ſuch, as that they do therefore deſerve very great veneration and reſpect; yet is there plainly ſomething <hi>humane,</hi> ſomething of <hi>infirmity,</hi> ſomething of <hi>fallibility</hi> in them, for which they are with all reaſon thought inferior to the Writings of the Apoſtles. And this Argument is alſo peculiarly ſtrong againſt Mr. <hi>T.</hi> For if he thinks, as he ſays, that he can with all the eaſe in the
+<pb n="36" facs="tcp:95890:19"/>World ſhow the <hi>Ignorance</hi> and <hi>Su<g ref="char:EOLhyphen"/>perſtition</hi> of the Authors of theſe Writings; well may he allow thoſe, who ſo far differ from him in this, as to think they deſerve the high Character of Primitive, Holy, and Apoſtolical Men, yet not to preſume to equal them with the Apoſtles themſelves.</p>
+            <p n="3">3. <hi>Thirdly,</hi> When we have made the beſt judgment of things, that we can poſſibly at this di<g ref="char:EOLhyphen"/>ſtance of time, we cannot after all but pay ſome deference to the judgment of the Ancients, eſpeci<g ref="char:EOLhyphen"/>ally when aſſembled in a Council; and allow them to judge ſome<g ref="char:EOLhyphen"/>what better in the Ages next after our Saviour, what Writings were of Authority to be made the Stan<g ref="char:EOLhyphen"/>dard and Rule of Faith, than we can after 1700 hundred years: Eſpecially ſince of the doubted
+<pb n="37" facs="tcp:95890:19"/>Books, which were ſometime read promiſcuouſly with the uncontro<g ref="char:EOLhyphen"/>verted, 'tis plain they received ſuch only into the Canon, whoſe ſtile, and matter, and agreement with the reſt of the Apoſtolical Writings, do ſufficiently prove them to have judged wiſely and upon good Grounds. But this Argument is of no force with Mr. <hi>T.</hi>
+            </p>
+            <p n="4">4. <hi>Fourthly,</hi> Therefore, and which is a direct deciſion of this Queſtion, I add, that the true reaſon why ſuch a certain and determi<g ref="char:EOLhyphen"/>nate number of Writings are re<g ref="char:EOLhyphen"/>ceived as the Canon of Scripture, that is, as an Authoritative Rule of Faith and Manners, is becauſe they were <hi>written by the Apoſtles themſelves,</hi> (who are acknowledg<g ref="char:EOLhyphen"/>ed to have been guided by an in<g ref="char:EOLhyphen"/>fallible Spirit,) or which is all one,
+<pb n="38" facs="tcp:95890:20"/>were <hi>dictated, reviewed and appro<g ref="char:EOLhyphen"/>ved by them or ſome of them.</hi> All the Books of the New Teſtament, except the Goſpels of St. <hi>Mark,</hi> and St. <hi>Luke,</hi> and the <hi>Acts of the Apoſtles,</hi> are therefore received as Canonical, becauſe the Church upon undoubted Grounds be<g ref="char:EOLhyphen"/>lieves them to be <hi>written immedi<g ref="char:EOLhyphen"/>ately by the Apoſtles themſelves;</hi> and theſe three Books are there<g ref="char:EOLhyphen"/>fore received as Canonical like<g ref="char:EOLhyphen"/>wiſe, becauſe we believe them to have been <hi>dictated, reviewed and approved by ſome of the Apoſtles.</hi> And this is a plain and direct rea<g ref="char:EOLhyphen"/>ſon, though Mr. <hi>T.</hi> is ſo modeſt to ſay <hi>he never heard</hi> of it,
+<note place="margin">pag. 48.</note> why the Writings of St. <hi>Mark</hi> and St. <hi>Luke,</hi> who were only Compani<g ref="char:EOLhyphen"/>ons of the Apoſtles, are received among the Canonical Writings of the Apoſtles; and yet the Epi<g ref="char:EOLhyphen"/>ſtles of <hi>Clemens</hi> and <hi>Barnabas,</hi> who
+<pb n="39" facs="tcp:95890:20"/>were Fellow-labourers with the Apoſtles, are not. And that this is indeed the true reaſon, why ſome Books are received as of in<g ref="char:EOLhyphen"/>fallible Authority, and others not; may be ſufficiently proved to any unprejudiced perſon, from what we find in the Ancients concern<g ref="char:EOLhyphen"/>ing this matter. That <hi>all Books ac<g ref="char:EOLhyphen"/>knowledged to be written by the Apoſtles, were always received as of unqueſtionable Authority,</hi> is evident. The Queſtion concerning any doubted Book, being, not whe<g ref="char:EOLhyphen"/>ther the Writing of an Apoſtle ſhould be received as of good Au<g ref="char:EOLhyphen"/>thority or not, but whether that Writing ſaid to be an Apoſtle's, were indeed the Writing of him whoſe name it bore. That <hi>the reaſon why the Writings of St.</hi> Mark <hi>and St.</hi> Luke <hi>were always received as of certain Authority,</hi> was not be<g ref="char:EOLhyphen"/>cauſe they were Contemporaries
+<pb n="40" facs="tcp:95890:21"/>with the Apoſtles, (for ſo were <hi>Clemens</hi> and <hi>Hermas,</hi> and <hi>Barna<g ref="char:EOLhyphen"/>bas,</hi>) but <hi>becauſe</hi> their Writings were particularly approved and authorized by the Apoſtles, is plain from <hi>Euſebius;</hi> who tells us expreſly that St. <hi>Peter</hi> received and approved the Goſpel of St. <hi>Mark,</hi> and that
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>l.</hi> 2. <hi>c.</hi> 15.</note> 
+               <hi>it was this approbation that authorized it to be received by the Churches:</hi> In like man<g ref="char:EOLhyphen"/>ner,
+<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>l.</hi> 3. <hi>c.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>That St.</hi> John <hi>re<g ref="char:EOLhyphen"/>viewed all the Goſpels, and confirmed the truth of them: Irenaeus</hi> like<g ref="char:EOLhyphen"/>wiſe tells us
+<note n="*" place="margin">
+                  <hi>Marcus</hi> diſcipul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; in<g ref="char:EOLhyphen"/>terpres <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri,</hi> quae à <hi>Pet<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> annunciata era<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, edidit. <hi>lib.</hi> 3. <hi>cap.</hi> 1.</note> that <hi>what St.</hi> Mark <hi>wrote, was di<g ref="char:EOLhyphen"/>ctated by St.</hi> Peter; and that
+<note n="†" place="margin">
+                  <hi>Lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as</hi> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or <hi>Pauli,</hi> quod ab illo pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>licabatur, Evangeli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bro con<g ref="char:EOLhyphen"/>didit. <hi>Ibid.</hi>
+               </note> 
+               <hi>the Goſpel of St.</hi> Luke <hi>was only a Tran<g ref="char:EOLhyphen"/>ſcript of St.</hi> Paul<hi>'s Prea<g ref="char:EOLhyphen"/>ching:</hi> St. <hi>Paul</hi> himſelf plainly re<g ref="char:EOLhyphen"/>fers to it, 1 <hi>Cor.</hi> 15.5. where de<g ref="char:EOLhyphen"/>claring
+<pb n="41" facs="tcp:95890:21" rendition="simple:additions"/>unto the <hi>Corinthians</hi> the Goſpel which he had before Prea<g ref="char:EOLhyphen"/>ched, he puts them in mind <hi>how that Chriſt roſe from the dead accor<g ref="char:EOLhyphen"/>ding to the Scriptures, and that he was ſeen of Cephas, &amp;c.</hi> which ap<g ref="char:EOLhyphen"/>pearance of our Saviour to <hi>Peter,</hi> is no vvhere mentioned but in Saint <hi>Luke</hi>'s Goſpel, <hi>Luke</hi> 24.34.</p>
+            <p>And in the firſt Epiſtle to <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> 5.18 he quotes it with the <hi>expreſs Title of</hi> Scripture; <hi>The Scripture ſaith, The Labourer is worthy of his Hire;</hi> which words are no where found in Scripture, but in St. <hi>Luke</hi>'s Goſpel, <hi>Luke</hi> 10. <hi>v.</hi> 7. So that 'tis without great reaſon, that Learned Men have judged it to be St. <hi>Luke</hi>'s Goſpel, which the Apoſtle calls <hi>his own Goſpel,</hi> 2 <hi>Tim.</hi> 2.8. and elſewhere. And then for the <hi>Acts of the Apo<g ref="char:EOLhyphen"/>ſtles,</hi> 'tis plain they are an Account of St. <hi>Paul</hi>'s Travels,
+<note n="*" place="margin">Baron. ad ann. 61.</note> written
+<pb n="42" facs="tcp:95890:22"/>before his Death; ſo that they are with all reaſon believed to have been approved by him; and if they were not, yet
+<note n="*" place="margin">Sunt enim Acta <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ejus operis <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cuius <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ipſe ſuum ag<g ref="char:EOLhyphen"/>noſcit Evangelium. Acta poſtea ab Evangelio divulſe<g ref="char:EOLhyphen"/>runt, quibus commodius vi<g ref="char:EOLhyphen"/>ſum, ob locorum ſaciliorem expeditioremque invicem comparationem, Evangeliſtas ſeparato codice complecti, &amp; ab Actis ſecernere. <hi>Dod<g ref="char:EOLhyphen"/>well.</hi> Diſſertat. 1. in <hi>Irenaeum.</hi>
+               </note> being anciently the ſame Book vvith the Goſpel of St. <hi>Luke,</hi> they vvere undoubtedly revievved by <hi>St. John,</hi> together vvith it, and their Au<g ref="char:EOLhyphen"/>thority vvas hardly e<g ref="char:EOLhyphen"/>ver, that I knovv of, called in que<g ref="char:EOLhyphen"/>ſtion by any, but
+<note n="†" place="margin">Vid. <hi>Tertull.</hi> adverſus Marcion. lib. 5. ſub. initio.</note> 
+               <hi>Marcion</hi> the Heretick. Laſtly, <hi>That no other Books, however written by the Con<g ref="char:EOLhyphen"/>temporaries of the Apoſtles were recei<g ref="char:EOLhyphen"/>ved by the Ancients as of infallible and deciſive Authority in matters of Diſpute,</hi> is evident. <hi>Euſebius</hi> tells us expreſly that the Authority of the Epiſtle to the <hi>Hebrews</hi> vvas queſtioned by ſome, not becauſe they doubted whether it was writ<g ref="char:EOLhyphen"/>ten
+<pb n="43" facs="tcp:95890:22"/>in the Age of the Apoſtles, (for that they could not not,) but
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. lib. 3. cap. 3.</note> becauſe the Church of <hi>Rome</hi> thought it not to be written by <hi>St. Paul.</hi> The Paſtor of <hi>Hermas</hi> alſo (as
+<note n="†" place="margin">Idem ibidem.</note> the ſame Author tells us) was eſteemed ſo much as to be read publickly in Churches and yet never received as of infallible Authority: Nay <hi>Origen</hi> goes farther, &amp; thinks it to be not only a <hi>uſeful</hi> Book, but written
+<note n="*" place="margin">Quae ſcriptura valde mihi <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> videtur, &amp;, ut puto, divinitus inſpirata. <hi>Origen.</hi> in Rom. 16 14.</note> e<g ref="char:EOLhyphen"/>ven with ſome degree of Inſpiration; and yet
+<note n="†" place="margin">Si cui tamen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criptura illa recipienda videtur. <hi>Origen.</hi> Hom. 8. in <hi>Nu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </note> impoſes it not upon any one to be receiv<g ref="char:EOLhyphen"/>ed as Scripture.</p>
+            <p>In like manner the Epiſtle of <hi>Cle<g ref="char:EOLhyphen"/>mens,</hi> though the moſt unque<g ref="char:EOLhyphen"/>ſtionable Piece in all Antiquity, and (as <hi>Euſebius</hi> Stiles it)
+<note n="*" place="margin">
+                  <hi>Lib.</hi> 3. <hi>c.</hi> 38.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet it is by the
+<pb n="44" facs="tcp:95890:23"/>ſame Author
+<note n="†" place="margin">
+                  <hi>Lib.</hi> 6. <hi>c.</hi> 13.</note> elſewhere reckon<g ref="char:EOLhyphen"/>ed up among the Apocryphal Pieces: that is, as <hi>Cotelerius</hi> well obſerves, not that any one doubt<g ref="char:EOLhyphen"/>ed of its Genuineneſs or Excel<g ref="char:EOLhyphen"/>lency, but only that they would not reckon it among the Books <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to which <hi>Euſebius</hi> there oppoſes it.</p>
+            <p>The Truth is, the unqueſtion<g ref="char:EOLhyphen"/>ed Works of the Apoſtles were not anciently (as Mr. <hi>Dodwel</hi> con<g ref="char:EOLhyphen"/>feſſes) kept in a diſtinct Book from the Apocryphal, but read and cited promiſcouſly with the Works of their immediate Succeſſors: But then 'tis alſo certain, that as unqueſtioned Works of the Apo<g ref="char:EOLhyphen"/>ſtles, <hi>whenever</hi> they were cited were looked upon by all as infallible and deciſive; ſo the other Pieces, whilſt they were quoted and urged by ſome, might as freely be de<g ref="char:EOLhyphen"/>nied or not yielded to by others.</p>
+            <p>
+               <pb n="45" facs="tcp:95890:23"/>Vainly therefore doth Mr. <hi>T.</hi> object, <hi>That they who believe the Epiſtle of</hi> Clemens <hi>and</hi> the reſt <hi>to be genuine, cannot give any reaſon why they do not admit it into the Canon of Scripture.</hi> And as falſly does he inſinuate, that the Eſta<g ref="char:EOLhyphen"/>bliſhment of that Canon is uncer<g ref="char:EOLhyphen"/>tain and precarious. Could it be proved, <hi>That the Epiſtles of</hi> James <hi>and of</hi> Peter, <hi>and of</hi> Jude, <hi>or any of them, were not written by thoſe whoſe Names they bear;</hi> we ſhould indeed be obliged to reject them: And could the <hi>Preaching</hi> and <hi>Re<g ref="char:EOLhyphen"/>velation of Peter</hi> be proved to be genuine, we ſhould be obliged to receive them into the Canon of the New Teſtament. But ſo far is it from being true, That the <hi>Preaching and Revelation of Peter</hi> were <hi>ſo</hi> receiv'd by the Ancients, as by more than <hi>a parity of Reaſon,</hi> to claim admiſſion into the Ca<g ref="char:EOLhyphen"/>non
+<pb n="46" facs="tcp:95890:24"/>with his ſecond Epiſtle, and the reſt of the ſome time que<g ref="char:EOLhyphen"/>ſtioned Books, that on the con<g ref="char:EOLhyphen"/>trary theſe Pieces (beſides the ar<g ref="char:EOLhyphen"/>guments that may be drawn from the Writings themſelves) were received by ſo few of the Ancients, as to make
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Hiſt. l.</hi> 3. <hi>c.</hi> 3.</note> 
+               <hi>Euſebius</hi> think, (though in that indeed he was miſtaken,) that they vvere never quo<g ref="char:EOLhyphen"/>ted by any of the Ancients at all.</p>
+            <p>What Mr. <hi>T.</hi> has invidiouſly urged about the Diviſions among the Fathers, and their want of exactneſs in their Reaſonings, I ſuppoſe will not move thoſe, who know that Truth is never the leſs ſuch for being ſurrounded with a multitude of Errors; and that Men did not then write in a Nice and Scholaſtick way, but in a plain and unpolite Stile, mixing
+<pb n="47" facs="tcp:95890:24"/>
+               <hi>Arguments, Similitudes</hi> and <hi>Illuſtra<g ref="char:EOLhyphen"/>tions</hi> promiſcouſly, which is the way of repreſenting things po<g ref="char:EOLhyphen"/>pularly, and to mean Capaci<g ref="char:EOLhyphen"/>ties.</p>
+            <p>
+               <hi>Thus I have indeavoured to give a ſhort Anſwer to the</hi> Difficulties <hi>which Mr.</hi> T. <hi>has with great freedom propoſed: Hoping that what I have here very briefly and with Submiſ<g ref="char:EOLhyphen"/>ſion hinted, may give occaſion to ſome abler and more learned Pen, to treat of this Matter with that largeneſs and clearneſs, with which ſo great a</hi> Point <hi>well deſerves to be handled.</hi>
+            </p>
+            <closer>
+               <signed>I am, Sir, <hi>Yours.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95890:25"/>
+            <head>BOOKS <hi>ſold by</hi> James Knapton, <hi>at the</hi> Crown <hi>in St.</hi> Paul<hi>'s</hi> Church-Yard.</head>
+            <p>CApt. <hi>William Dampier</hi>'s <hi>New Voyage round the World.</hi> Deſcribing particularly, the <hi>Iſthmus</hi> of <hi>America,</hi> ſe<g ref="char:EOLhyphen"/>veral Coaſts and Iſlands in the <hi>Weſt Indies,</hi> the Iſles of <hi>Cape Verd,</hi> the Paſſage by <hi>Terra del Fuego,</hi> the <hi>South-Sea</hi> Coaſts of <hi>Chili, Peru,</hi> &amp;c. the Iſle of <hi>Guam</hi> one of the <hi>La<g ref="char:EOLhyphen"/>drones, Mindanao,</hi> and other <hi>Philippine</hi> and <hi>Eaſt-India</hi> I<g ref="char:EOLhyphen"/>ſlands, near <hi>Cambodia, China,</hi> &amp;c. <hi>New Holland, Sumatra, Nicobar</hi> Iſles; the <hi>Cape of Good Hope,</hi> and <hi>Santa Hellena.</hi> Their Soil, Rivers, Harbours, Plants, Animals, <hi>&amp;c.</hi> Their Cuſtoms, Religion, Government, Trade, <hi>&amp;c. Vol.</hi> I. Illuſtrated with particular Maps and Draughts. <hi>The</hi> 4th <hi>E<g ref="char:EOLhyphen"/>dition Corrected.</hi>
+            </p>
+            <p>— His <hi>Voyages and Deſcriptions.</hi> Vol. II. In Three Parts, <hi>viz.</hi> 1. A <hi>Supplement</hi> of the <hi>Voyage round the Word,</hi> deſcribing the Countries of <hi>Tonquin, Achin, Ma<g ref="char:EOLhyphen"/>lacca,</hi> &amp;c. their Product. Inhabitants, Manners, Trade, Policy, <hi>&amp;c.</hi> 2. Two Voyages to <hi>Campeachy;</hi> with a Deſcription of the Coaſts, Product, Inhabitants, Log<g ref="char:EOLhyphen"/>wood-cutting, Trade, <hi>&amp;c.</hi> of <hi>Jucatan, Campeachy, New-Spain,</hi> &amp;c. 3. A Diſcourſe of Trade-Winds, Breezes, Storms, Seaſons of the Year, Tides and Currents of the <hi>Torrid Zone</hi> throughout the World: With an Account of <hi>Natal</hi> in <hi>Africk,</hi> its Product, Negroes, <hi>&amp;c.</hi> Illuſtrated with particular Maps and Draughts. To which is added, A General <hi>INDEX</hi> to both Volumes.</p>
+            <pb facs="tcp:95890:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
